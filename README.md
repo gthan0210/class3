@@ -5,4 +5,4 @@
 ![ballred] (http://img.yonhapnews.co.kr/etc/inner/KR/2016/09/09/AKR20160909121100704_03_i.jpg)
 ![ballred] (https://youtu.be/qOH6KuYuyoU)
 
-[![ballred] (http://img.yonhapnews.co.kr/etc/inner/KR/2016/09/09/AKR20160909121100704_03_i.jpg)](https://youtu.be/qOH6KuYuyoU)
+[![ballred] (http://img.yonhapnews.co.kr/etc/inner/KR/2016/09/09/AKR20160909121100704_03_i.jpg)]
